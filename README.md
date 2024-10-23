@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @neoartd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+A computer science student.
 
-<!---
-neoartd/neoartd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<a href="https://github.com/initheo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=initheo&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/initheo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=initheo&layout=compact&theme=chartreuse-dark&langs_count=8" />
+</a>
