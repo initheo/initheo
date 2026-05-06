@@ -119,8 +119,8 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=initheo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&ring_color=0f3460"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=initheo&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8"/>
+<img height="175em" src="https://github-readme-stats-initheo.vercel.app/api?username=initheo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&ring_color=0f3460"/>
+<img height="175em" src="https://github-readme-stats-initheo.vercel.app/api/top-langs/?username=initheo&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8"/>
 
 </div>
 
